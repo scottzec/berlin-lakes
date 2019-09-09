@@ -1,5 +1,10 @@
 # README
 
+# HOWTOS
+## Start Server
+
+    $ bundler exec rails server
+    
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
