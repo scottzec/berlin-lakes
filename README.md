@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# HOWTOS
+## Start Server
+
+    $ bundler exec rails server
